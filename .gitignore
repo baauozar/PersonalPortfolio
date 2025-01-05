@@ -361,3 +361,10 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+
+# Ignore appsettings.json and Program.cs in API and UI projects
+PersonalPortfolioAPI/appsettings.json
+PersonalPortfolioAPI/Program.cs
+
+PersonalPortfolioUI/appsettings.json
+PersonalPortfolioUI/Program.cs
